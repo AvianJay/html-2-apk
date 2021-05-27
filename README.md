@@ -1,5 +1,7 @@
 # html-2-apk
 
+Bug Fixed by AvianJay
+
  The simplest method for converting your HTML app to a working Android App.
 
  There are lot of frontend engineers want to convert their own html app to android app,but all the existing methods are too truoblesome,or some methods need you to purchase a software.
@@ -31,7 +33,8 @@ click 'New Android App',
 <br >
 
 ![](https://github.com/ymrdf/html-2-apk/raw/master/pic/05.png)
-
+<br>
+You Can Change Name And ID.
 <br >
 click 'CREACT',
 <br >
@@ -55,6 +58,8 @@ Next ,replace /AppProjects/MyApp/app/src/main/java/com/mycompany/myapp/MainActiv
 Next ,replace /AppProjects/MyApp/app/src/main/res/layout/main.xml.
 <br >
 At last,copy the 'assets' folder into /AppProjects/MyApp/app/src/main.There is a sample html app in assets/www,you can replace it with your own.Only one thing to note,the html file must be 'index.html'.
+<br>
+You Can Change The App's ID.
 
 
 ## Test
