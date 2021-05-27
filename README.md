@@ -36,7 +36,7 @@ click 'New Android App',
 <br>
 You Can Change Name And ID.
 <br >
-click 'CREACT',
+click 'CREATE',
 <br >
 
 ![](https://github.com/ymrdf/html-2-apk/raw/master/pic/06.png)
